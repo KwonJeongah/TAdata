@@ -2,7 +2,7 @@
 
 교통사고 데이터 시각화
 ===============================    
-##### 1. 과제 내용 설명
+### 1. 과제 내용 설명
 
 경찰청의 교통사고 데이터 시각화
 
@@ -14,21 +14,21 @@
     + 도별 상위 6개 사고유형 파이 그래프    
 * 도별 사고 상황 워드 클라우드 
 
-##### 2. 개발 환경 및 기술 스택
+### 2. 개발 환경 및 기술 스택
 
 * Windows10, Python 3    
 * matplotlib, seaborn, Twitter, wordclud
 
-##### 3. 시각화 결과
+### 3. 시각화 결과
 
-### 1) 사고 유형별 빈도수 그래프    
-https://user-images.githubusercontent.com/37493709/92339492-64f84c00-f0f1-11ea-9643-b904fb5201ea.PNG
+#### 1) 사고 유형별 빈도수 그래프    
+!.[캡처](https://user-images.githubusercontent.com/37493709/92339492-64f84c00-f0f1-11ea-9643-b904fb5201ea.PNG)
 
-### 2) 도별 사고 빈도수 그래프    
-https://user-images.githubusercontent.com/37493709/92339509-7c373980-f0f1-11ea-9679-0e96650465c5.PNG    
+#### 2) 도별 사고 빈도수 그래프    
+!.[캡처](https://user-images.githubusercontent.com/37493709/92339509-7c373980-f0f1-11ea-9679-0e96650465c5.PNG)    
 
-### 3) 도별 상위 6개 사고유형 파이 그래프     
-https://user-images.githubusercontent.com/37493709/92339523-996c0800-f0f1-11ea-9dff-989a0e1bbe34.PNG
+#### 3) 도별 상위 6개 사고유형 파이 그래프     
+!.[캡처](https://user-images.githubusercontent.com/37493709/92339523-996c0800-f0f1-11ea-9dff-989a0e1bbe34.PNG)
 
-### 4) 도별 사고 상황 워드 클라우드 (대한민국을 대상으로 분석한 것만 첨부)    
-https://user-images.githubusercontent.com/37493709/92339556-bbfe2100-f0f1-11ea-8086-688806ab84a7.PNG
+#### 4) 도별 사고 상황 워드 클라우드 (대한민국을 대상으로 분석한 것만 첨부)    
+!.[캡처](https://user-images.githubusercontent.com/37493709/92339556-bbfe2100-f0f1-11ea-8086-688806ab84a7.PNG)
