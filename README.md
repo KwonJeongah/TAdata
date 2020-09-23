@@ -17,7 +17,7 @@
 ### 2. 개발 환경 및 기술 스택
 
 * Windows10, Python 3    
-* matplotlib, seaborn, Twitter, wordclud
+* matplotlib, seaborn, Twitter, wordcloud
 
 ### 3. 시각화 결과
 
